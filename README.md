@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# React + TWA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite and Telegram Web Apps (TWA). Used a lot of already existing templates and guides to create this one, but this one is cool. Enjoy the bot [here](https://t.me/turinglabs_dev_bot).
 
 Currently, two official plugins are available:
 
